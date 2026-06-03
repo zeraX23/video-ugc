@@ -1,0 +1,6 @@
+{
+  "name": "UGC Video Studio",
+  "description": "Generator naskah & suara video UGC gratis tanpa token. Lengkap dengan prompt per kategori, simulator visual, dan download naskah + audio voiceover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
